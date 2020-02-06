@@ -1,4 +1,5 @@
 <?php
+///incluimos la conexion
 include('conexion.php');
 class Tarea extends Conexion {
 	function __construct() {
